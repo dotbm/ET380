@@ -2,8 +2,7 @@
 *.vcproj
 **/build/
 **/emu/
-apps
-!apps/demo/**
+
 
 
 ## Ignore Visual Studio temporary files, build results, and
